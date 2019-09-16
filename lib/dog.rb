@@ -5,4 +5,7 @@ fido = Dog.new
 fido
 
 snoopy = Dog.new
-snoopy 
+snoopy
+
+lassie = Dog.new
+lassie
